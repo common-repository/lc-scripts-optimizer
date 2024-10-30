@@ -1,0 +1,604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LC Scripts Optimizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-21 11:10+0200\n"
+"PO-Revision-Date: 2016-10-21 11:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: LCweb\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax.php:16
+msgid "No server permissions to manage files"
+msgstr ""
+
+#: ajax.php:19
+msgid "Can't find cache folder"
+msgstr ""
+
+#: ajax.php:63
+msgid "Error calling homepage"
+msgstr ""
+
+#: settings.php:8
+msgid "Settings"
+msgstr ""
+
+#: settings.php:45
+msgid "Settings saved"
+msgstr ""
+
+#: settings.php:62
+msgid "Initialization"
+msgstr ""
+
+#: settings.php:65
+msgid "Enable optimization?"
+msgstr ""
+
+#: settings.php:70
+msgid "Turn on the magic!"
+msgstr ""
+
+#: settings.php:74
+msgid "System status"
+msgstr ""
+
+#: settings.php:79
+msgid "Everything's ok!"
+msgstr ""
+
+#: settings.php:81
+msgid "Clean cache"
+msgstr ""
+
+#: settings.php:86
+msgid "Permission problems!"
+msgstr ""
+
+#: settings.php:101
+msgid "Scripts Management"
+msgstr ""
+
+#: settings.php:104
+msgid "Avoid processing Javascript?"
+msgstr ""
+
+#: settings.php:109
+msgid "If checked, won't optimize JS files"
+msgstr ""
+
+#: settings.php:112
+msgid "Avoid processing CSS?"
+msgstr ""
+
+#: settings.php:117
+msgid "If checked, won't optimize CSS files"
+msgstr ""
+
+#: settings.php:121
+msgid "Avoid processing @import in CSS files?"
+msgstr ""
+
+#: settings.php:126 settings.php:134
+msgid "Check only if you see CSS issues"
+msgstr ""
+
+#: settings.php:129
+msgid "Avoid minifying CSS scripts?"
+msgstr ""
+
+#: settings.php:142
+msgid "Scripts Filter"
+msgstr ""
+
+#: settings.php:143
+msgid "Fetch again"
+msgstr ""
+
+#: settings.php:151
+msgid "No scripts fetched yet"
+msgstr ""
+
+#: settings.php:159 settings.php:188
+msgid "Do NOT optimize?"
+msgstr ""
+
+#: settings.php:161 settings.php:190
+msgid "Use only in these pages"
+msgstr ""
+
+#: settings.php:162 settings.php:191
+msgid "use URLs - one per row - supports regexp"
+msgstr ""
+
+#: settings.php:214
+msgid "Update"
+msgstr ""
+
+#: settings.php:267
+msgid "Deleting cache files your server will need to recreate them. Continue?"
+msgstr ""
+
+#: settings.php:279
+msgid "Cache successfully cleaned!"
+msgstr ""
+
+#~ msgid "First name"
+#~ msgstr "Nome"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "User first name"
+#~ msgstr "Nome utente"
+
+#~ msgid "User name"
+#~ msgstr "Nome utente"
+
+#~ msgid "Last name"
+#~ msgstr "Cognome"
+
+#~ msgid "Surname"
+#~ msgstr "Cognome"
+
+#~ msgid "User last name"
+#~ msgstr "Cognome utente"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Username used for the login"
+#~ msgstr "Username usato per il login"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Password used for the login"
+#~ msgstr "Password usata per il login"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Categories"
+#~ msgstr "Categorie"
+
+#~ msgid "E-Mail"
+#~ msgstr "E-Mail"
+
+#~ msgid "User E-mail"
+#~ msgstr "E-mail utente"
+
+#~ msgid "Telephone"
+#~ msgstr "Telefono"
+
+#~ msgid "User Telephone"
+#~ msgstr "Telefono utente"
+
+#~ msgid "Registration disclaimer"
+#~ msgstr "Disclaimer di registrazione"
+
+#~ msgid "Repeat password"
+#~ msgstr "Ripeti password"
+
+#~ msgid "Password strength"
+#~ msgstr "Sicurezza password"
+
+#~ msgid "Another user already has this username"
+#~ msgstr "Questo username è già utilizzato da un altro utente"
+
+#~ msgid "One or more chosen categories are wrong"
+#~ msgstr "Una o più categorie scelte sono errate"
+
+#~ msgid "characters and digits"
+#~ msgstr "lettere e numeri"
+
+#~ msgid "an uppercase character"
+#~ msgstr "una lettera maiuscola"
+
+#~ msgid "a symbol"
+#~ msgstr "un carattere speciale"
+
+#~ msgid "must contain at least "
+#~ msgstr "deve contenere almeno"
+
+#~ msgid "minimum value is"
+#~ msgstr "il valore minimo è"
+
+#~ msgid "maximum value is"
+#~ msgstr "il valore massimo è"
+
+#~ msgid "must be at least of"
+#~ msgstr "deve essere di almeno"
+
+#~ msgid "characters"
+#~ msgstr "caratteri"
+
+#~ msgid "maximum"
+#~ msgstr "massimo"
+
+#~ msgid "characters allowed"
+#~ msgstr "caratteri consentiti"
+
+#~ msgid "must be long"
+#~ msgstr "deve essere lungo"
+
+#~ msgid "Select"
+#~ msgstr "Seleziona"
+
+#~ msgid "options"
+#~ msgstr "opzioni"
+
+#~ msgid "Maximum"
+#~ msgstr "Massimo"
+
+#~ msgid "options allowed"
+#~ msgstr "opzioni consentite"
+
+#~ msgid "are required"
+#~ msgstr "sono richiesti"
+
+#~ msgid "is required"
+#~ msgstr "è richiesto"
+
+#~ msgid "are not valid integers"
+#~ msgstr "non sono numeri interi"
+
+#~ msgid "is not a valid integer"
+#~ msgstr "non è un numero intero"
+
+#~ msgid "are not valid floating numbers"
+#~ msgstr "non sono validi numeri a virgola mobile"
+
+#~ msgid "is not a valid floating number"
+#~ msgstr "non è un valido numero a virgola mobile"
+
+#~ msgid "are not valid e-mail addresses"
+#~ msgstr "non sono indirizzi e-mail validi"
+
+#~ msgid "is not a valid e-mail address"
+#~ msgstr "non è un indrizzo e-mail valido"
+
+#~ msgid "are not valid dates"
+#~ msgstr "non sono date valide"
+
+#~ msgid "is not a valid date"
+#~ msgstr "non è una data valida"
+
+#~ msgid "are not valid times"
+#~ msgstr "non sono orari validi"
+
+#~ msgid "is not a valid time"
+#~ msgstr "non è un orario valido"
+
+#~ msgid "are not valid urls"
+#~ msgstr "non sono url validi"
+
+#~ msgid "is not a valid url"
+#~ msgstr "non è un url valido"
+
+#~ msgid "are not valid hexadecimal colors"
+#~ msgstr "non sono colori esadecimali validi"
+
+#~ msgid "is not a valid hexadecimal color"
+#~ msgstr "non è un colore esadecimale valido"
+
+#~ msgid "are not valid IP addresses"
+#~ msgstr "non sono indirizzi IP validi"
+
+#~ msgid "is not a valid IP address"
+#~ msgstr "non è un indirizzo IP valido"
+
+#~ msgid "are not valid ZIP codes"
+#~ msgstr "are not valid ZIP codes"
+
+#~ msgid "is not a valid ZIP code"
+#~ msgstr "is not a valid ZIP code"
+
+#~ msgid "are not valid telephone numbers"
+#~ msgstr "non sono numeri di telefono validi"
+
+#~ msgid "is not a valid telephone number"
+#~ msgstr "non è un numero di telefono valido"
+
+#~ msgid "invalid data inserted"
+#~ msgstr "dati non validi inseriti"
+
+#~ msgid "values are not between the allowed"
+#~ msgstr "i valori non sono tra quelli consentiti"
+
+#~ msgid "value is not between the allowed"
+#~ msgstr "il valore non è tra quelli consentiti"
+
+#~ msgid "values are between the forbidden"
+#~ msgstr "i valori sono tra i non ammessi"
+
+#~ msgid "values is between the forbidden"
+#~ msgstr "il valore è tra i non ammessi"
+
+#~ msgid "the value doesn't match"
+#~ msgstr "il valore non corrisponde"
+
+#~ msgid "file size is wrong"
+#~ msgstr "la dimensione del file è errata"
+
+#~ msgid "no access"
+#~ msgstr "nessun accesso"
+
+#~ msgid "ago"
+#~ msgstr "fa"
+
+#~ msgid "Disable private page"
+#~ msgstr "Disabilita pagina privata"
+
+#~ msgid "Error during user page creation"
+#~ msgstr "Errore durante la creazione della pagina privata dell'utente"
+
+#~ msgid "Error inserting user data into database"
+#~ msgstr "Errore inserendo i dati utenti nel database"
+
+#~ msgid "Error updating user data into database"
+#~ msgstr "Errore aggiornando i dati utenti nel database"
+
+#~ msgid "Wrong status value"
+#~ msgstr "Status errato"
+
+#~ msgid "Another user has the same e-mail"
+#~ msgstr "Un altro utente ha già usato questa e-mail"
+
+#~ msgid "Another user has the same username or e-mail"
+#~ msgstr "Un altro utente ha lo stesso username o e-mail"
+
+#~ msgid "WP sync - another user has the same e-mail"
+#~ msgstr "WP sync - un altro utente ha la stessa e-mail"
+
+#~ msgid "login"
+#~ msgstr "Login"
+
+#~ msgid "remember me"
+#~ msgstr "ricordami"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "You have to set registered users default category in settings"
+#~ msgstr "Categoria di default per utenti registrati mancante"
+
+#~ msgid "No registration forms found"
+#~ msgstr "Nessun form di registrazione trovao"
+
+#~ msgid "Username and password fields are mandatory"
+#~ msgstr "I campi username e password sono obbligatori"
+
+#~ msgid "Submit"
+#~ msgstr "Invia"
+
+#~ msgid "You must be logged in to view this content"
+#~ msgstr "Devi essere loggato per visualizzare questo contenuto"
+
+#~ msgid "Sorry, you don't have the right permissions to view this content"
+#~ msgstr "Non hai i permessi per visualizzare questo contenuto"
+
+#~ msgid "You must be logged in to post comments"
+#~ msgstr "Devi essere loggato per postare commenti"
+
+#~ msgid "Sorry, you don't have the right permissions to post comments"
+#~ msgstr "Spiacente, non hai i permessi per postare commenti"
+
+#~ msgid "You don't have a reserved area"
+#~ msgstr "Non disponi di area riservata"
+
+#~ msgid "Logged successfully, welcome!"
+#~ msgstr "Loggato con successo. Benvenuto!"
+
+#~ msgid "Sorry, your account has not been activated yet"
+#~ msgstr "Il tuo account non è ancora stato attivato"
+
+#~ msgid "Registration was successful. Welcome!"
+#~ msgstr "Registato con successo. Benvenuto!"
+
+#~ msgid "Incorrect username or password"
+#~ msgstr "Username o passwor errati"
+
+#~ msgid "Username or password incorrect"
+#~ msgstr "Username o password errate"
+
+#~ msgid "Form not found"
+#~ msgstr "Form non trovato"
+
+#~ msgid "wasn't entered correctly"
+#~ msgstr "non è stato inserito correttamente"
+
+#~ msgid "must be accepted to proceed with registration"
+#~ msgstr "deve essere accettato per procedere con la registrazione"
+
+#~ msgid "Second name"
+#~ msgstr "Cognome"
+
+#~ msgid "Username not found or disabled"
+#~ msgstr "Username non trovato o disabilitato"
+
+#~ msgid "Your account doesn't have an e-mail"
+#~ msgstr "Il tuo account non ha una e-mail"
+
+#~ msgid "Error sending the e-mail"
+#~ msgstr "Errore durante l'invio dell'e-mail"
+
+#~ msgid "The password has been sent to your e-mail"
+#~ msgstr "La password ti è stata inviata via e-mail"
+
+#~ msgid "forgot password?"
+#~ msgstr "Password dimenticata? "
+
+#~ msgid "Recover"
+#~ msgstr "Recupera"
+
+#~ msgid "Back to login form"
+#~ msgstr "Torna al login"
+
+#~ msgid "E-mail Verification"
+#~ msgstr "Verifica via e-mail"
+
+#~ msgid "Account succesfully verified via e-mail"
+#~ msgstr "Account verificato via E-mail"
+
+#~ msgid "cancel verification"
+#~ msgstr "Cancella verifica"
+
+#~ msgid "Verification Impossible - User has no e-mail"
+#~ msgstr "Impossibile verificare - l'utente non ha una e-mail"
+
+#~ msgid "Account not verified yet"
+#~ msgstr "Account non ancora verificato"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Sorry, your request is invalid or your account has been deleted"
+#~ msgstr "La richiesta non è valida o il tuo account è stato cancellato"
+
+#~ msgid "Your account has been already activated!"
+#~ msgstr "Il tuo account è già stato attivato!"
+
+#~ msgid "Your account has been activated succesfully!"
+#~ msgstr "Il tuo account è stato attivato!"
+
+#~ msgid "Data saved succesfully"
+#~ msgstr "Dati salvati correttamente"
+
+#~ msgid "Form submitted successfully. You are not logged as an user so nothing has been saved"
+#~ msgstr "Form inviato con successo. Non sei loggato come utente quindi nessun dato è stato salvato "
+
+#~ msgid "Repeat"
+#~ msgstr "Ripeti"
+
+#~ msgid "must contain at least"
+#~ msgstr "deve contenere almeno"
+
+#~ msgid "Welcome"
+#~ msgstr "Benvenuto"
+
+#~ msgid "You have to set the default category for registered users"
+#~ msgstr "Devi impostare la categoria di default per gli utenti registrati"
+
+#~ msgid "Logged succesfully, welcome!"
+#~ msgstr "Login effettuato, benvenuto!"
+
+#~ msgid "Invalid Category"
+#~ msgstr "Categoria non valida"
+
+#~ msgid "Error during user registration, contact the website administrator"
+#~ msgstr "Errore durante la registrazione, contattare l'amministratore del sito"
+
+#~ msgid "Registration was succesful. Welcome!"
+#~ msgstr "Registrazione effettuata. Benvenuto!"
+
+#~ msgid "Sorry, your account has been disabled"
+#~ msgstr "Il tuo account non è ancora stato attivato"
+
+#~ msgid "minimum"
+#~ msgstr "minimo"
+
+#, fuzzy
+#~ msgid "Form submitted successfully. In this demo no data could be saved"
+#~ msgstr "Form inviato con successo. Non sei loggato come utente quindi nessun dato è stato salvato"
+
+#~ msgid "%SITE-TITLE% - Welcome!"
+#~ msgstr "%SITE-TITLE% - Benvenuto!"
+
+#~ msgid ""
+#~ "Hello %USERNAME%,\n"
+#~ "thanks for registering on %SITE-TITLE%. \n"
+#~ "\n"
+#~ "To activate your account, click the following link:\n"
+#~ "%VER-URL%\n"
+#~ "\n"
+#~ "Best Regards,\n"
+#~ "%SITE-TITLE% Staff"
+#~ msgstr ""
+#~ "Ciao %USERNAME%,\n"
+#~ "grazie per esserti registrato su %SITE-TITLE%. \n"
+#~ "\n"
+#~ "Per attivare il tuo account, click sul link seguente:\n"
+#~ "%VER-URL%\n"
+#~ "\n"
+#~ "Cordiali Saluti,\n"
+#~ "%SITE-TITLE% Staff"
+
+#~ msgid "%SITE-TITLE% - New registered user"
+#~ msgstr "%SITE-TITLE% - Nuovo utente registrato"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "A new user has registered.\n"
+#~ "\n"
+#~ "Fullname: %NAME% %SURNAME%\n"
+#~ "Username: %USERNAME%\n"
+#~ "E-mail: %MAIL%\n"
+#~ "Telephone: %TEL%"
+#~ msgstr ""
+#~ "Buongiorno,\n"
+#~ "Un nuovo utente si è registrato.\n"
+#~ "\n"
+#~ "Nome compleo: %NAME% %SURNAME%\n"
+#~ "Username: %USERNAME%\n"
+#~ "E-mail: %MAIL%\n"
+#~ "Telefono: %TEL%"
+
+#~ msgid "%SITE-TITLE% - Account activated!"
+#~ msgstr "%SITE-TITLE% - Account Attivato!"
+
+#~ msgid ""
+#~ "Hello %USERNAME%,\n"
+#~ "your account has been activated, now you can login into our website!\n"
+#~ "\n"
+#~ "Best Regards,\n"
+#~ "%SITE-TITLE% Staff"
+#~ msgstr ""
+#~ "Ciao %USERNAME%,\n"
+#~ "il tuo account è stato attivato, ora puoi effettuare il login!\n"
+#~ "\n"
+#~ "Cordiali Saluti,\n"
+#~ "%SITE-TITLE% Staff"
+
+#~ msgid "%SITE-TITLE% - Password recovery"
+#~ msgstr "%SITE-TITLE% - Recupero Password"
+
+#~ msgid ""
+#~ "Hello %USERNAME%,\n"
+#~ "a password recovery has been requested for your account.\n"
+#~ "\n"
+#~ "This is your password: %PSW%\n"
+#~ "\n"
+#~ "Best Regards,\n"
+#~ "%SITE-TITLE% Staff"
+#~ msgstr ""
+#~ "Ciao %USERNAME%,\n"
+#~ "una richiesta di recupero password è stata inviata per il tuo account.\n"
+#~ "\n"
+#~ "Questa è la tua password: %PSW%\n"
+#~ "\n"
+#~ "Cordiali Saluti,\n"
+#~ "%SITE-TITLE% Staff"
+
+#, fuzzy
+#~ msgid "Select a field"
+#~ msgstr "Seleziona"
+
+#, fuzzy
+#~ msgid "Field Required"
+#~ msgstr "è richiesto"
+
+#~ msgid "reCAPTCHA"
+#~ msgstr "reCAPTCHA"

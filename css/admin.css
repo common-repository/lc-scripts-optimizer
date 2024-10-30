@@ -1,0 +1,144 @@
+.lcso_form h3 {
+    border-bottom: 1px solid #DFDFDF;
+    font-size: 14px;
+    margin: 20px 0 0;
+    padding: 10px 0;
+}
+
+.lcso_form label {
+	padding-right: 15px;
+}
+.lcso_req_field {
+	color: #F30;	
+}
+#lcso_ulist_filter {
+	width: 200px;	
+	margin-top: 3px;
+}
+#lcso_ulist_action {
+	width: 130px;
+}
+.lcso_trigger {
+	cursor: pointer;	
+}
+.del_lcso_user {
+	color: #21759B;	
+}
+.del_lcso_user:hover {
+	color: #d54e21;	
+}
+.lcso_form table td {
+	vertical-align: middle;	
+}
+
+.lcso_table {
+	margin-bottom: 35px;	
+	border: none !important;
+	padding-bottom: 0;
+}
+
+.lcso_table thead td {
+	font-weight: bold;
+	font-size: 15px;	
+}
+.lcso_table td {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	vertical-align: middle;
+	overflow: visible;
+	
+	background:  #fdfdfd;
+    border-bottom: 1px solid #fff;
+	border-top: 1px solid #E9E9E9;
+    color: #444444;
+}
+
+.lcso_table .lcso_label_td {
+	width: 27%;	
+}
+.lcso_table .lcso_field_td {
+	width: 250px;	
+}
+.lcso_table .lcso_field_td > input,
+.lcso_table .lcso_field_td > textarea,
+.lcso_table .lcso_field_td > select {
+	width: 90%;
+}
+.lcso_table .lcso_field_td > select {
+	width: 221px;
+	border-radius: 1px;
+    box-shadow: 0 0 0 2px #ddd;
+}
+.lcso_table .info {
+	font-family: sans-serif;
+    font-size: 12px;
+    font-style: italic;
+	color: #999;	
+	vertical-align: middle;
+}
+.lcso_table .chosen-container-multi .search-field input {
+	min-height: 25px;	
+}
+
+.lcso_scripts_filter tbody tr:hover td {
+	background-color: #f8f8f8;	
+}
+.lcso_scripts_filter tbody tr td:first-child {
+	cursor: help;
+}
+.lcso_scripts_filter tbody tr td textarea {
+	width: 99%;
+	max-width: 730px;
+	height: 34px;
+}
+.lcwp_settings_fixed_submit {
+    background: #f1f1f1 none repeat scroll 0 0;
+    bottom: 0;
+    box-shadow: 3px 0 6px rgba(0, 0, 0, 0.3);
+    left: 160px;
+    padding: 16px 0 14px;
+    position: fixed;
+    right: 0;
+    z-index: 999;
+}
+.lcwp_settings_fixed_submit input {
+	left: 22px;
+    position: relative;
+	margin: 0 !important;
+}
+@media screen and (max-width: 960px) { 
+	.lcwp_settings_fixed_submit {	
+		left: 38px;
+	}
+}
+
+
+#lcso_donate {
+    float: right;
+    font-size: 15px;
+    font-weight: 600;
+    height: 22px;
+    line-height: 20px;
+    overflow: visible;
+    position: relative;
+    text-align: right;
+    top: -41px;
+}
+#lcso_donate a {
+	background: #75b936;
+    border-radius: 2px;
+    color: #fff;
+    line-height: 32px;
+    padding: 2px 12px 4px;
+    text-decoration: none;	
+}
+@media screen and (max-width:860px) { 
+	#lcso_donate {
+		float: none;
+		height: auto;
+		line-height: 20px;
+		margin: 6px 0 13px;
+		text-align: left;
+		top: 0;	
+	}
+}
